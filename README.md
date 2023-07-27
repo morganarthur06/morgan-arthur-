@@ -5,3 +5,5 @@ Meu nome é Arthur Miguel, mas por pseudônimo utilizo Morgan.
 - Ingressando na Área Acadêmica.
 - Interessado em Filosofia.
 - Área das Exatas.
+
+[Alura](https://www.alura.com.br)
